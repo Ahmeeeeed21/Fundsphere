@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FundsphereApplication<Fundsphere>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "tn.esprit.fundsphere.FundsphereApplication",
+            "projectName": "Fundsphere",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
